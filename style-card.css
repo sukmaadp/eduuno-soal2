@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #FFB6C1, #87CEFA, #98FB98);
+  background-size: 400% 400%;
+  animation: gradientBG 10s ease infinite;
+  padding: 0;
+  margin: 0;
+}
+
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+#container {
+  background: white;
+  padding: 25px;
+  border-radius: 18px;
+  max-width: 600px;
+  margin: 80px auto;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+  text-align: center;
+  position: relative;
+}
+
+/* Badge animasi */
+#badge {
+  font-size: 65px;
+  animation: pop 1s ease-out forwards;
+  opacity: 0;
+}
+
+@keyframes pop {
+  0% { transform: scale(0.2); opacity: 0; }
+  70% { transform: scale(1.2); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+h2 {
+  margin-top: 10px;
+  font-size: 26px;
+  color: #4B0082;
+  font-weight: 700;
+}
+
+#isi {
+  font-size: 18px;
+  color: #333;
+  margin-top: 15px;
+}

@@ -1,0 +1,40 @@
+{
+  "luck-merdeka-1": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Merdeka! Kamu boleh membuang 1 kartu tambahan dari tanganmu."
+  },
+  "luck-merdeka-2": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Semangat Proklamasi! Buang 1 kartu apa pun yang tidak kamu suka dari tanganmu."
+  },
+  "luck-merdeka-3": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Hari Kemerdekaan! Pilih 1 kartu dan letakkan di tempat buangan tanpa penalti."
+  },
+
+  "luck-rodi-1": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Kerja Rodi! Ambil 1 kartu acak dari tumpukan buangan."
+  },
+  "luck-rodi-2": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Dipaksa bekerja… Kamu harus mengambil kartu paling atas dari discarded pile."
+  },
+  "luck-rodi-3": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Beban Rodi! Ambil 1 kartu acak dari buangan, lalu tidak boleh membuang kartu pada giliran ini."
+  },
+
+  "luck-tukar-1": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Bertukar Posisi! Tukar seluruh kartu tanganmu dengan pemain di sebelah kiri."
+  },
+  "luck-tukar-2": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Posisi Bergeser! Tukar tanganmu dengan pemain mana saja yang kamu pilih."
+  },
+  "luck-tukar-3": {
+    "kategori": "Kartu Nasib Sejarah",
+    "isi": "Strategi Baru! Pemain di kiri dan kananmu bertukar kartu, kamu tidak ikut."
+  }
+}
